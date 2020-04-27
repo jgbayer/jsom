@@ -4,7 +4,7 @@ disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
-title = "John Som - Serviços em Som e Audio"
+title = "John Som - Serviços de Som e Audio"
 [Languages.en]
 contentDir = "content/english"
 home = "Home"
