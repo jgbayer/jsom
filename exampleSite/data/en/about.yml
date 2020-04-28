@@ -3,11 +3,10 @@ about:
   enable: true
   title: Nossos Serviços
   about_item:
-  - icon: ti-ruler-pencil
+  - icon: ti-plug
     title: Manutenção e Reparos
     content: Pra dar aquela geral no seu equipamento, tirar o pino do cabo que quebrou
-      no plug, limpar os knobs do amplificador - tudo que você precisar pra música
-      não parar!
+      no plug, limpar os knobs do amplificador - tudo pra manter o som limpinho!
   - icon: ti-cup
     title: We're Professional
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
