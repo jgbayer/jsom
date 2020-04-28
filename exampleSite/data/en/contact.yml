@@ -1,8 +1,8 @@
 ---
 contact:
   enable: true
-  title: Vamos falar de som!
-  subtitle: Entre em contato
+  title: Contato
+  subtitle: Vamos falar de som!
   content: Pra pedir um orçamento, uma dica, ou só trocar uma idéia - toda conversa
     é bem-vinda :)
   form_action: "#"
