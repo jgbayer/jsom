@@ -18,17 +18,18 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.main]]
-URL = "contact"
-name = "Contato"
-weight = 3
-[[menu.main]]
-URL = "pricing"
-name = "o John"
-weight = 2
-[[menu.main]]
 URL = "about"
 name = "Sobre"
 weight = 1
+[[menu.main]]
+URL = "pricing"
+name = "o John"
+url = "https://johnsom.netlify.app/#testimonial"
+weight = 2
+[[menu.main]]
+URL = "contact"
+name = "Contato"
+weight = 3
 [params]
 author = "João Gabriel C. Bayer"
 description = "John Som - Serviços pra quem curte um som de qualidade!"
