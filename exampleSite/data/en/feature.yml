@@ -20,7 +20,8 @@ feature:
     content: Também atendemos fora do horário comercial - trabalhamos com Bares, Restaurantes,
       Shoppings, e todo tipo de gente ocupada, pra tudo estar funcionando na hora
       "H"
-  - title: Easy Customization
-    icon: ti-announcement
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+  - title: Feito por músicos
+    icon: fas fa-guitar
+    content: |-
+      Com muito amor <3
+      Nós realmente gostamos muito de música, som, audio, e se quiser só conversar, pode chamar também!
