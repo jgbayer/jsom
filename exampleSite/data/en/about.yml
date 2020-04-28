@@ -1,6 +1,7 @@
 ---
 about:
   enable: true
+  bg_image: images/b_mix.jpg
   title: Alô, som!
   about_item:
   - icon: ti-plug
