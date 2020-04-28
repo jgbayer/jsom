@@ -3,10 +3,9 @@ feature:
   enable: true
   image: images/b_man.jpg
   title: Seu som, do seu jeito
-  content: A vida é rodeada de ondas sonoras, e manter seu equipamento funcionando
-    com clareza faz bem aos ouvidos e ao coração - ninguém merece uma caixa de som
-    chiando, quando já temos todo o ruído do dia-a-dia. Oferecemos o melhor em qualidade
-    de **som** e **atendimento**, pra garantir que você tenha a melhor **experiência**
+  content: A vida já é cheia de ruído - manter seu equipamento funcionando com clareza
+    faz bem aos ouvidos e ao coração. Oferecemos o melhor em qualidade de **som**
+    e **atendimento**, pra garantir que você tenha a melhor **experiência**
   feature_item:
   - title: Aonde estiver
     icon: ti-map-alt
