@@ -34,9 +34,9 @@ author = "João Gabriel C. Bayer"
 description = "John Som - Serviços pra quem curte um som de qualidade!"
 google_analitycs_id = ""
 logo = "images/logo.png"
-post_share = true
+post_share = false
 [params.map]
-enable = true
+enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
 map_latitude = "22.9400"
 map_longitude = "43.3566"
@@ -51,6 +51,8 @@ link = "plugins/magnific-popup/magnific-popup.css"
 link = "plugins/slick/slick.css"
 [[params.plugins.css]]
 link = "https://fonts.googleapis.com/css?family=Anaheim|Quattrocento+Sans:400,700&display=swap"
+[[params.plugins.js]]
+link = "https://kit.fontawesome.com/7a9ef3c0e7.js"
 [[params.plugins.js]]
 link = "plugins/jquery/jquery.min.js"
 [[params.plugins.js]]
