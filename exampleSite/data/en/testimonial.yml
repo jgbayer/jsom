@@ -5,8 +5,8 @@ testimonial:
   bg_image_webp: images/backgrounds/bg-testimonial.webp
   testimonial_item:
   - name: Oi, meu nome é João...
-    image: images/client/client-1.jpg
-    image_webp: images/client/client-1.webp
+    image: images/john.jpg
+    image_webp: ''
     date: ''
     content: "...mas pode me chamar de **John**! Sou músico, técnico, produtor, fundador
       da John Som, e apaixonado pelo que faço. Gosto de ouvir um som de qualidade,
