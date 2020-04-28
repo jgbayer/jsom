@@ -1,8 +1,7 @@
 ---
 feature:
   enable: true
-  image: images/about/about-business-man.jpg
-  image_webp: images/about/about-business-man.webp
+  image: images/b_vinil.jpg
   title: Seu som, do seu jeito
   content: A vida é rodeada de ondas sonoras, e manter seu equipamento funcionando
     com clareza faz bem aos ouvidos e ao coração - ninguém merece uma caixa de som
