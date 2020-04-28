@@ -10,7 +10,7 @@ feature:
     de **som** e **atendimento**, pra garantir que você tenha a melhor **experiência**
   feature_item:
   - title: SEO Optimized
-    icon: ti-world
+    icon: fas fa-guitar
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
       dolores repellendus eos saepe
   - title: Easy Customization
