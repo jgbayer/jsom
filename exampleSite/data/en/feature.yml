@@ -9,7 +9,7 @@ feature:
   feature_item:
   - title: Aonde estiver
     icon: ti-location-pin
-    content: O técnico vai até você! Abrangemos toda a cidade Rio de janeiro, não
+    content: O técnico vai até você! Atuamos em toda a cidade Rio de janeiro, não
       importa sua localidade
   - title: Como preferir
     icon: ti-credit-card
