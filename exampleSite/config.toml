@@ -20,7 +20,7 @@ weight = 2
 [[menu.main]]
 URL = "pricing"
 name = "o John"
-url = "#testimonial"
+url = "testimonial"
 weight = 2
 [[menu.main]]
 URL = "about"
