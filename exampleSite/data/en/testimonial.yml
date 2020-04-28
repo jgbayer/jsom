@@ -1,8 +1,7 @@
 ---
 testimonial:
   enable: true
-  bg_image: images/backgrounds/bg-testimonial.jpg
-  bg_image_webp: images/backgrounds/bg-testimonial.webp
+  bg_image: images/b-cdj.jpg
   testimonial_item:
   - name: Oi, eu sou o John!
     image: images/john.jpg
