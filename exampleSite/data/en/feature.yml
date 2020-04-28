@@ -18,8 +18,7 @@ feature:
   - title: No seu tempo
     icon: ti-time
     content: Também atendemos fora do horário comercial - trabalhamos com Bares, Restaurantes,
-      Shoppings, e todo tipo de gente ocupada, pra tudo estar funcionando na hora
-      "H"
+      Shoppings, e todo tipo de gente ocupada
   - title: Feito por músicos
     icon: fas fa-guitar
     content: |-
