@@ -4,10 +4,10 @@ feature:
   image: images/about/about-business-man.jpg
   image_webp: images/about/about-business-man.webp
   title: Seu som, do seu jeito
-  content: Buscamos oferecer o melhor em qualidade de **som* e **atendimento**. Sua
-    vida é rodeada de ondas sonoras, e manter seu equipamento funcionando com clareza
-    faz bem aos ouvidos - ninguém merece uma caixa de som chiando, além de todo o
-    ruído do dia-a-dia.
+  content: Sua vida é rodeada de ondas sonoras, e manter seu equipamento funcionando
+    com clareza faz bem aos ouvidos - ninguém merece uma caixa de som chiando, quando
+    já temos todo o ruído do dia-a-dia. Oferecemos o melhor em qualidade de **som**
+    e **atendimento**, pra garantir que você tenha a melhor **experiência**
   feature_item:
   - title: SEO Optimized
     icon: ti-world
