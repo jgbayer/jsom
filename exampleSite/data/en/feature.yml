@@ -8,7 +8,7 @@ feature:
     e **atendimento**, pra garantir que você tenha a melhor **experiência**
   feature_item:
   - title: Aonde estiver
-    icon: ti-map-alt
+    icon: ti-location-pin
     content: O técnico vai até você! Atendemos à toda a cidade Rio de janeiro, não
       importa sua localidade
   - title: Como preferir
