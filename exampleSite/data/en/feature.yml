@@ -19,8 +19,7 @@ feature:
     icon: ti-time
     content: Atendimento com hora marcada e pontualidade - trabalhamos com Bares,
       Restaurantes, Shoppings e pessoas ocupadas em geral
-  - title: Feito por músicos
+  - title: De quem gosta, pra quem gosta
     icon: fas fa-guitar
-    content: |-
-      Com amor <3
-      Nós realmente gostamos muito de música, som, audio, e se quiser só conversar, pode chamar também!
+    content: Música, som e audio são nossa paixão - todo trabalho é feito com muito
+      carinho <3
