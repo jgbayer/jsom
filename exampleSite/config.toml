@@ -22,7 +22,7 @@ URL = "contact"
 name = "Contato"
 weight = 3
 [[menu.main]]
-URL = "pricing"
+URL = "testimonial"
 name = "o John"
 weight = 2
 [[menu.main]]
