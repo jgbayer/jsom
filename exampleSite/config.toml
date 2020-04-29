@@ -69,20 +69,5 @@ link = "plugins/lazy-load/lozad.min.js"
 enable = true
 preloader = "images/logo.png"
 [[params.social]]
-icon = "ti-facebook"
-link = "#"
-[[params.social]]
-icon = "ti-twitter-alt"
-link = "#"
-[[params.social]]
-icon = "ti-youtube"
-link = "#"
-[[params.social]]
-icon = "ti-linkedin"
-link = "#"
-[[params.social]]
-icon = "ti-dribbble"
-link = "#"
-[[params.social]]
-icon = "ti-pinterest"
-link = "#"
+icon = "fas fa-google"
+link = "https://g.page/johnsom"
