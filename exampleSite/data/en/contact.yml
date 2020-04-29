@@ -9,5 +9,5 @@ contact:
   contact_details:
   - icon: ti-location-pin
     info: Rua Ministro Gabriel de Piza, 148 - Oficina - Rio de Janeiro, RJ
-  - icon: ti-mobile
-    info: 'Telefone e Whatsapp: (21) 96594-4972'
+  - icon: fab fa-whatsapp
+    info: 'Telefone: (21) 96594-4972'
