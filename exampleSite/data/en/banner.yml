@@ -1,6 +1,6 @@
 ---
 banner:
-  enable: true
+  enable: false
   bg_image_webp: ''
   bg_image: images/b_mix.jpg
   icon: ''
