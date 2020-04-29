@@ -69,5 +69,5 @@ link = "plugins/lazy-load/lozad.min.js"
 enable = true
 preloader = "images/logo.png"
 [[params.social]]
-icon = "fas fa-google"
+icon = "fab fa-google"
 link = "https://g.page/johnsom"
